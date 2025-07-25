@@ -9,25 +9,29 @@
 
 ### 💡 Sobre mim
 
-- 🧠 Engenheiro de Software com foco em Frontend moderno
-- 🚀 Especialista em interfaces acessíveis, rápidas e responsivas
-- 🧪 Explorando IA, automações e tecnologias de produtividade
-- 📍 Baseado no Brasil
+👨‍💻 Engenheiro de Software com sólida experiência em desenvolvimento front-end, focado na construção de interfaces modernas, modulares e escaláveis.
+
+🚀 Atualmente na Radek Systems, alocado na Intelbras, atuo no desenvolvimento de módulos middleware voltados à segurança. Sou responsável pela implementação de soluções front-end com arquitetura modular utilizando TypeScript, React e Next.js, integradas com AWS/OnPremise, seguindo as melhores práticas de desenvolvimento e otimização de performance.
+
+🚀 Na Selffi App, liderei o desenvolvimento do backoffice da plataforma, criando interfaces para agendamentos, gestão de usuários, cupons e operações administrativas — com forte foco em usabilidade e escalabilidade.
+
+🚀 Na Encora Inc., atuei em três frentes distintas. Como Engenheiro Front-End na Furukawa, desenvolvi interfaces web dinâmicas com React e Next.js, aplicando arquitetura de micro frontends e práticas de integração contínua. Como Desenvolvedor Python (RPA) na Nokia, criei soluções de automação para otimizar processos internos e eliminar tarefas repetitivas. Como Analista de Risco de TI no Varo Bank (EUA), contribuí com a documentação e mitigação de riscos de segurança da informação, além de gerenciar políticas de IAM e garantir conformidade regulatória.
+
+🚀 Na SupportYourApp, atuei como Especialista em Suporte de TI, alocado em projetos baseados na Ucrânia e em Israel, onde prestei suporte técnico global em inglês para usuários na América do Norte e Europa. Colaborei diretamente com equipes de desenvolvimento na identificação e reporte de bugs utilizando JavaScript, com foco na melhoria da experiência do usuário e na agilidade na resolução de problemas técnicos e operacionais em ambientes SaaS.
+
+🌍 Fluente em Inglês e Português, com experiência comprovada em projetos internacionais nos mercados europeu e norte-americano.
 
 ---
 
 ### 🛠️ Tecnologias que uso
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+TypeScript | React.js | Next.js | SASS | Tailwind CSS | MUI | Vanilla Extract | Styled Components | Zod | Zustand | Git & GitHub Actions | CI/CD | AWS Cloud | Jest | UX/UI | Figma | Micro front end | Python | RPA | Lambdas | Docker | Scrum | Jira | Trello | Confluence | Metodologias Ágeis | Suporte TI
 
 ---
 
 ### 📊 GitHub Stats
+
+> ⚠️ Obs: As estatísticas abaixo consideram apenas repositórios públicos. A maior parte dos meus commits e PRs estão em projetos privados.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pereira-Dev&show_icons=true&theme=radical" />
