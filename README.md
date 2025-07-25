@@ -1,13 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o Patrick Pereira!</h1>
 
 <p align="center">
-  <b>Software Engineer | Frontend Engineer</b> <br />
-  <code>TypeScript</code> · <code>React.js</code> · <code>Next.js</code> · <code>Tailwind</code> · <code>Python</code> · <code>RPA</code> · <code>Prompt Engineering</code>
+  <b>Engenheiro de Software | Engenheiro de Frontend</b> <br />
+  <code>TypeScript</code> · <code>React.js</code> · <code>Next.js</code> · <code>Tailwind</code> · <code>Python</code> · <code>RPA</code> · <code>AWS</code> · <code>Suporte TI</code>
 </p>
 
----
 
-### 💡 Sobre mim
+---
 
 👨‍💻 Engenheiro de Software com sólida experiência em desenvolvimento front-end, focado na construção de interfaces modernas, modulares e escaláveis.
 
@@ -42,9 +41,4 @@ TypeScript | React.js | Next.js | SASS | Tailwind CSS | MUI | Vanilla Extract | 
 
 ### 🌎 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://seuportifolio.com)
-
----
-
-> *“Construindo soluções com código limpo, propósito e inovação.”*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pereira-dev)
