@@ -26,53 +26,22 @@
 
 
 #### 💻 Linguagens & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React.js" />
-  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/nextjs.png" height="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/tailwind.png" height="40" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" title="MUI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-</p>
+TypeScript · JavaScript · React.js · Next.js · SASS · Tailwind CSS · MUI · Python
 
 #### 🎨 Estilo, Validação & State
-<p align="left">
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40" title="Styled Components" />
-  <img src="https://avatars.githubusercontent.com/u/83765103?s=200&v=4" height="40" title="Zod" />
-  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" title="Zustand" />
-  <img src="https://seeklogo.com/images/V/vanilla-extract-logo-7C98B27334-seeklogo.com.png" height="40" title="Vanilla Extract" />
-</p>
+Styled Components · Zod · Zustand · Vanilla Extract
 
 #### ⚙️ DevOps & Infraestrutura
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/aws.png" height="40" title="AWS Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" />
-</p>
+Docker · Git · GitHub · GitHub Actions · AWS Cloud
 
 #### 🧪 Testes & Qualidade
-<p align="left">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" height="40" title="Jest" />
-</p>
+Jest
 
 #### 🧰 Ferramentas de Trabalho
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" title="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" title="Trello" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" title="Confluence" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" />
-</p>
+Jira · Trello · Confluence · Figma
 
 #### 🧠 Outros Conhecimentos
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/rpa.png" height="40" title="RPA" />
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" title="Micro Frontends" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" height="40" title="Scrum & Agile" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1794/1794757.png" height="40" title="Suporte TI" />
-</p>
+RPA · Micro Frontends · Scrum & Metodologias Ágeis · Suporte TI
 
 
 ---
