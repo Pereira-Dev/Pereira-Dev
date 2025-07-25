@@ -25,13 +25,12 @@
 ### 🛠️ Tecnologias que uso
 
 
-#### 🧠 Linguagens & Frameworks
-
+#### 💻 Linguagens & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" title="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" title="SASS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" title="MUI" />
@@ -39,7 +38,6 @@
 </p>
 
 #### 🎨 Estilo, Validação & State
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40" title="Styled Components" />
   <img src="https://avatars.githubusercontent.com/u/83765103?s=200&v=4" height="40" title="Zod" />
@@ -48,7 +46,6 @@
 </p>
 
 #### ⚙️ DevOps & Infraestrutura
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
@@ -58,13 +55,11 @@
 </p>
 
 #### 🧪 Testes & Qualidade
-
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" height="40" title="Jest" />
 </p>
 
 #### 🧰 Ferramentas de Trabalho
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" title="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" title="Trello" />
@@ -73,14 +68,12 @@
 </p>
 
 #### 🧠 Outros Conhecimentos
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/BluePrism-Me/images/main/blueprism-icon.svg" height="40" title="RPA" />
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" title="Micro Frontends" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" height="40" title="Scrum & Agile" />
   <img src="https://cdn-icons-png.flaticon.com/512/1794/1794757.png" height="40" title="Suporte TI" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2436/2436884.png" height="40" title="Metodologias Ágeis" />
 </p>
-
 
 
 ---
