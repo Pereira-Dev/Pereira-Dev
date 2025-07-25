@@ -46,16 +46,6 @@ RPA · Micro Frontends · Scrum & Metodologias Ágeis · Suporte TI
 
 ---
 
-### 📊 GitHub Atividade
-
-[![GitHub Perfil](https://img.shields.io/badge/GitHub-Pereira--Dev-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pereira-Dev)
-[![Commits 2025](https://img.shields.io/badge/Commits-1200%2B-green)]()
-[![PRs Abertos](https://img.shields.io/badge/PRs-15%2B-blue)]()
-[![Repos Públicos](https://img.shields.io/badge/Public%20Repos-10%2B-lightgrey)]()
-
-> 🔒 Repositórios privados e contribuições corporativas não estão listados aqui, mas representam a maior parte da minha atuação profissional.
-
----
 
 ### 🌎 Vamos nos conectar?
 
