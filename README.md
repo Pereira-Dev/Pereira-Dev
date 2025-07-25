@@ -30,9 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" title="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/nextjs.png" height="40" title="Next.js" />
+  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/tailwind.png" height="40" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" title="MUI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
 </p>
@@ -50,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS Cloud" />
+  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/aws.png" height="40" title="AWS Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" />
 </p>
 
@@ -69,7 +68,7 @@
 
 #### 🧠 Outros Conhecimentos
 <p align="left">
-  <img src="https://raw.githubusercontent.com/BluePrism-Me/images/main/blueprism-icon.svg" height="40" title="RPA" />
+  <img src="https://raw.githubusercontent.com/Pereira-Dev/assets/main/rpa.png" height="40" title="RPA" />
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" title="Micro Frontends" />
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" height="40" title="Scrum & Agile" />
   <img src="https://cdn-icons-png.flaticon.com/512/1794/1794757.png" height="40" title="Suporte TI" />
