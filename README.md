@@ -1,52 +1,85 @@
-<h1 align="center">👋 Olá, eu sou o Patrick Pereira!</h1>
+# Patrick Pereira 👋
 
-<p align="center">
-  <b>Engenheiro de Software | Engenheiro de Frontend</b> <br />
-  <code>TypeScript</code> · <code>React.js</code> · <code>Next.js</code> · <code>Tailwind</code> · <code>Python</code> · <code>RPA</code> · <code>AWS</code> · <code>Suporte TI</code>
-</p>
+[Português](#portugues) · [English](#english)
 
+<a id="portugues"></a>
 
----
+## 🇧🇷 Português
 
-👨‍💻 Engenheiro de Software com sólida experiência em desenvolvimento front-end, focado na construção de interfaces modernas, modulares e escaláveis.
+**Engenheiro de Software | Engenheiro de Frontend | Arquiteto de Software**
 
-🚀 Atualmente na Radek Systems, alocado na Intelbras, atuo no desenvolvimento de módulos middleware voltados à segurança. Sou responsável pela implementação de soluções front-end com arquitetura modular utilizando TypeScript, React e Next.js, integradas com AWS/OnPremise, seguindo as melhores práticas de desenvolvimento e otimização de performance.
+`TypeScript` · `React` · `Next.js` · `Design Systems` · `AI & Automation`
 
-🚀 Na Selffi App, liderei o desenvolvimento do backoffice da plataforma, criando interfaces para agendamentos, gestão de usuários, cupons e operações administrativas — com forte foco em usabilidade e escalabilidade.
+### Sobre mim
 
-🚀 Na Encora Inc., atuei em três frentes distintas. Como Engenheiro Front-End na Furukawa, desenvolvi interfaces web dinâmicas com React e Next.js, aplicando arquitetura de micro frontends e práticas de integração contínua. Como Desenvolvedor Python (RPA) na Nokia, criei soluções de automação para otimizar processos internos e eliminar tarefas repetitivas. Como Analista de Risco de TI no Varo Bank (EUA), contribuí com a documentação e mitigação de riscos de segurança da informação, além de gerenciar políticas de IAM e garantir conformidade regulatória.
+Desenvolvo interfaces web, bibliotecas React reutilizáveis e design systems, combinando engenharia de frontend com arquitetura modular de software.
 
-🚀 Na SupportYourApp, atuei como Especialista em Suporte de TI, alocado em projetos baseados na Ucrânia e em Israel, onde prestei suporte técnico global em inglês para usuários na América do Norte e Europa. Colaborei diretamente com equipes de desenvolvimento na identificação e reporte de bugs utilizando JavaScript, com foco na melhoria da experiência do usuário e na agilidade na resolução de problemas técnicos e operacionais em ambientes SaaS.
+Minha experiência abrange desenvolvimento frontend, consultoria em arquitetura, integrações backend e de dados, segurança, infraestrutura e automação. Também aplico Python e IA generativa aos fluxos de desenvolvimento e a ferramentas internas.
 
-🌍 Fluente em Inglês e Português, com experiência comprovada em projetos internacionais nos mercados europeu e norte-americano.
+### Experiência técnica
 
----
+- **Engenharia de frontend:** aplicações web, plataformas administrativas, formulários, gerenciamento de estado e interfaces em tempo real com TypeScript, React, Next.js e Vite.
+- **Bibliotecas React e design systems:** componentes reutilizáveis, consistência de interfaces, acessibilidade e Storybook.
+- **Arquitetura de software:** aplicações e monólitos modulares, separação entre camadas de domínio, aplicação e infraestrutura, contratos de APIs e documentação arquitetural.
+- **Backend e integrações:** APIs REST, WebSocket, PostgreSQL, Prisma, processamento de pagamentos, autenticação, controle de acesso e webhooks com idempotência.
+- **Nuvem e entrega de software:** integrações com AWS e ambientes on-premises, Docker, CI/CD, fluxos de implantação e observabilidade.
+- **IA e automação:** Python, RPA, integrações com IA generativa e desenvolvimento de software assistido por IA.
 
-### 🛠️ Tecnologias que uso
+### Tecnologias e práticas
 
+| Área | Stack |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, Sass, Vanilla Extract |
+| UI e estado | Design systems, Storybook, acessibilidade, Zustand, TanStack Query, React Hook Form, Zod |
+| Arquitetura e dados | Arquitetura modular, APIs REST, WebSocket, Node.js, PostgreSQL, Prisma |
+| Nuvem e entrega | AWS, GCP, Vercel, Docker, CI/CD, GitHub Actions, GitLab |
+| Qualidade | Jest, Vitest, Testing Library, Playwright |
+| IA e automação | Python, RPA, IA generativa, Codex, Claude, MCP |
 
-#### 💻 Linguagens & Frameworks
-TypeScript · JavaScript · React.js · Next.js · SASS · Tailwind CSS · MUI · Python
+### Formação e idiomas
 
-#### 🎨 Estilo, Validação & State
-Styled Components · Zod · Zustand · Vanilla Extract
+Pós-graduado em Engenharia de Software. Fluente em inglês e português, com experiência em projetos internacionais.
 
-#### ⚙️ DevOps & Infraestrutura
-Docker · Git · GitHub · GitHub Actions · AWS Cloud
-
-#### 🧪 Testes & Qualidade
-Jest
-
-#### 🧰 Ferramentas de Trabalho
-Jira · Trello · Confluence · Figma
-
-#### 🧠 Outros Conhecimentos
-RPA · Micro Frontends · Scrum & Metodologias Ágeis · Suporte TI
-
+[Vamos conversar no LinkedIn](https://www.linkedin.com/in/pereira-dev/)
 
 ---
 
+<a id="english"></a>
 
-### 🌎 Vamos nos conectar?
+## 🇺🇸 English
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pereira-dev)
+**Software Engineer | Frontend Engineer | Software Architect**
+
+`TypeScript` · `React` · `Next.js` · `Design Systems` · `AI & Automation`
+
+### About me
+
+I build web interfaces, reusable React libraries, and design systems, combining frontend engineering with modular software architecture.
+
+My experience spans frontend development, architecture consulting, backend and data integrations, security, infrastructure, and automation. I also apply Python and generative AI to development workflows and internal tools.
+
+### Engineering experience
+
+- **Frontend engineering:** web applications, administrative platforms, forms, state management, and real-time interfaces with TypeScript, React, Next.js, and Vite.
+- **React libraries and design systems:** reusable components, UI consistency, accessibility, and Storybook.
+- **Software architecture:** modular applications and monoliths, separation of domain, application, and infrastructure layers, API contracts, and architectural documentation.
+- **Backend and integrations:** REST APIs, WebSocket, PostgreSQL, Prisma, payment processing, authentication, access control, and idempotent webhooks.
+- **Cloud and delivery:** AWS and on-premises integrations, Docker, CI/CD, deployment workflows, and observability.
+- **AI and automation:** Python, RPA, generative AI integrations, and AI-assisted software development.
+
+### Technologies and practices
+
+| Area | Stack |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, Sass, Vanilla Extract |
+| UI and state | Design systems, Storybook, accessibility, Zustand, TanStack Query, React Hook Form, Zod |
+| Architecture and data | Modular architecture, REST APIs, WebSocket, Node.js, PostgreSQL, Prisma |
+| Cloud and delivery | AWS, GCP, Vercel, Docker, CI/CD, GitHub Actions, GitLab |
+| Quality | Jest, Vitest, Testing Library, Playwright |
+| AI and automation | Python, RPA, generative AI, Codex, Claude, MCP |
+
+### Education and languages
+
+Postgraduate degree in Software Engineering. Fluent in English and Portuguese, with international project experience.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/pereira-dev/)
