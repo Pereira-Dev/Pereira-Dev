@@ -3,7 +3,7 @@
 
 <a id="portugues"></a>
 
-## 🇧🇷 Português
+## Português
 
 **Engenheiro de Software | Engenheiro de Frontend | Arquiteto de Software**
 
@@ -45,7 +45,7 @@ Pós-graduado em Engenharia de Software. Fluente em inglês e português, com ex
 
 <a id="english"></a>
 
-## 🇺🇸 English
+## English
 
 **Software Engineer | Frontend Engineer | Software Architect**
 
