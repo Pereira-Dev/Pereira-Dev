@@ -1,6 +1,5 @@
-# Patrick Pereira 👋
+# Patrick Pereira
 
-[Português](#portugues) · [English](#english)
 
 <a id="portugues"></a>
 
